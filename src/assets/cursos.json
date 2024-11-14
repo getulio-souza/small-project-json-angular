@@ -1,0 +1,8 @@
+{
+    "cursos": [
+      { "nome": "Angular", "duracao": 300 },
+      { "nome": "React", "duracao": 250 },
+      { "nome": "Vue", "duracao": 150 }
+    ]
+  }
+  
